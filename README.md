@@ -257,10 +257,6 @@ Some ideas for future improvements:
 
 This project is open source and available under the MIT License.
 
-## Acknowledgments
-
-Thanks to everyone who tested the application and provided feedback. Special thanks to the open source community for the amazing tools and libraries that made this project possible.
-
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out or open an issue on GitHub.
