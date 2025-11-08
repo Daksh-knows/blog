@@ -78,7 +78,7 @@ Make sure you have these installed on your machine:
    JWT_SECRET=your_secret_key_here
    JWT_EXPIRE=7d
    NODE_ENV=development
-   CLIENT_URL=http://localhost:3000
+   CLIENT_URL=http://localhost:5173
    ```
 
    Start the backend server:
@@ -107,13 +107,13 @@ Make sure you have these installed on your machine:
    ```
 
 4. **Access the application**
-   - Frontend: http://localhost:3000
+   - Frontend: http://localhost:5173
    - Backend API: http://localhost:5000/api/v1
 
 ## Project Structure
 
 ```
-bloghub/
+blog/
 ├── backend/
 │   ├── config/          # Database configuration
 │   ├── controllers/     # Request handlers
